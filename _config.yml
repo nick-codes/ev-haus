@@ -14,11 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: EV Haus
-email: nick@ev.haus
+email: sales@ev.haus
 description: >- # this means to ignore newlines until "baseurl:"
   EV Haus converts classic cars into high performance electric vehicles.
-  We specialize in converting classic VW and Porsches into electric
-  vehicles that are a blast to drive.
+  We specialize in converting classic VW and Porsches into electric powered vehicles which are a blast to drive.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ev.haus" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ev_haus
